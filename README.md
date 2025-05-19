@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Muhammadelahi12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I’m @Muhammad Elahi
 
-<!---
-Muhammadelahi12/Muhammadelahi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Java Developer | Backend Specialist | Scalable Systems Enthusiast
+
+## 👀 I’m interested in
+
+🔹 Core Java & Java EE Development  
+🔹 Spring Boot, Hibernate, and Microservices Architecture  
+🔹 RESTful APIs & Web Services Integration  
+🔹 Database Design (MySQL, PostgreSQL, MongoDB)  
+🔹 Performance Tuning and Code Optimization  
+
+## 🌱 I’m currently learning
+
+📌 Reactive Programming (Project Reactor)  
+📌 Cloud-Native Java (Spring Cloud, Docker, Kubernetes)  
+📌 CI/CD Pipelines with Jenkins & GitHub Actions  
+📌 Advanced Security in Java Applications  
+
+## 💞️ I’m looking to collaborate on
+
+✅ Scalable backend systems  
+✅ Open-source Java libraries and frameworks  
+✅ Cloud-based microservice projects  
+
+## 📫 Contact
+
+📧 Email: devexpertus@gmail.com
